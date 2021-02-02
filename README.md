@@ -18,3 +18,8 @@ The United States is made up of so many diverse destinations that it's hard to d
 | Chicago       | 6     | $600        |
 | San Francisco | 7     | $700        |
 | New York City | 10    | $1000       |
+
+---
+## Pithy Quotes
+> Nobody reaches anywhere by believing-*Osho*
+> It's always darkest before you are blinded by the light-*Josh ster*

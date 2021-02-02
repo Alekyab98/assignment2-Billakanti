@@ -21,5 +21,5 @@ The United States is made up of so many diverse destinations that it's hard to d
 
 ---
 ## Pithy Quotes
-> Nobody reaches anywhere by believing-*Osho*
+> Nobody reaches anywhere by believing-*Osho*  
 > It's always darkest before you are blinded by the light-*Josh ster*

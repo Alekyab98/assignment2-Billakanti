@@ -9,6 +9,10 @@ Chicken Biryani is altogether a bowl full meal consisting carbohydrates,protines
 3. Choose paper and embellishment
 * create background with papers
 * Stick them with 
+![scrapbook](images/task/sb1)
+![scrapbook](images/task/sb2)
+![scrapbook](images/task/sb3)
+
 ---
 ### Must Visit Places in USA
 The United States is made up of so many diverse destinations that it's hard to decide which place deserve the distinction of the best in America.But some of the places which I feel are must to visit and they are listed below use this for your vacation planning.
@@ -18,6 +22,12 @@ The United States is made up of so many diverse destinations that it's hard to d
 | Chicago       | 6     | $600        |
 | San Francisco | 7     | $700        |
 | New York City | 10    | $1000       |
+![Las Vegas](images/location/vegas.PNG)
+![chicago](images/location/chicago.PNG)
+![Las Vegas](images/location/sanfrancisco.PNG)
+![Las Vegas](images/location/ny.PNG)
+
+
 
 ---
 ### Pithy Quotes

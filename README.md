@@ -5,7 +5,7 @@ Chicken Biryani is altogether a bowl full meal consisting carbohydrates,protines
 ---
 #### Making Scrapbook Album
 1. Get all the materials needed
-2. Sort your photos
+>2. Sort your photos
 3. Choose paper and embellishment
 * create background with papers
 * Stick them with 

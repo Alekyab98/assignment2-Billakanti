@@ -39,7 +39,9 @@ The United States is made up of so many diverse destinations that it's hard to d
 
 ### Languages
 >Snowball is a small sting processing programming language designed for creating stemming algorithms for use in information retrival
-language source link<https://en.wikipedia.org/wiki/Snowball_(programming_language)>
+
+
+language source link-<https://en.wikipedia.org/wiki/Snowball_(programming_language)>
 
 ```
 import org.tartarus.snowball.ext.spanishStemmer;
@@ -51,7 +53,7 @@ if (stemmer.stem()){
 }
 ```
 
-code source link <https://stackoverflow.com/questions/17956209/snowball-stemmer-usage>
+code source link- <https://stackoverflow.com/questions/17956209/snowball-stemmer-usage>
 
 
 

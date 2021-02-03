@@ -40,12 +40,17 @@ The United States is made up of so many diverse destinations that it's hard to d
 ### Languages
 >Snowball is a small sting processing programming language designed for creating stemming algorithms for use in information retrival
 <https://en.wikipedia.org/wiki/Snowball_(programming_language)>
-```import org.tartarus.snowball.ext.spanishStemmer;
+
+```
+import org.tartarus.snowball.ext.spanishStemmer;
 ...
 spanishStemmer stemmer = new spanishStemmer();
 stemmer.setCurrent("torero");
 if (stemmer.stem()){
     System.out.println(stemmer.getCurrent());
-}```
+}
+```
+
+
 
 

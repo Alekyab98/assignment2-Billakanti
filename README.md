@@ -51,6 +51,7 @@ if (stemmer.stem()){
 }
 ```
 
+<https://stackoverflow.com/questions/17956209/snowball-stemmer-usage>
 
 
 
